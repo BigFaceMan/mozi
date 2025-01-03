@@ -1,0 +1,23 @@
+2025-01-03 15:54:23 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 16276 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-03 15:54:23 - No active profile set, falling back to 1 default profile: "default"
+2025-01-03 15:54:24 - Tomcat initialized with port(s): 3000 (http)
+2025-01-03 15:54:24 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-03 15:54:24 - Starting service [Tomcat]
+2025-01-03 15:54:24 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-03 15:54:24 - Initializing Spring embedded WebApplicationContext
+2025-01-03 15:54:24 - Root WebApplicationContext: initialization completed in 1474 ms
+2025-01-03 15:54:26 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-03 15:54:26 - Will not secure Ant [pattern='/websocket/**']
+2025-01-03 15:54:26 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@34b27915, org.springframework.security.web.context.SecurityContextPersistenceFilter@64968732, org.springframework.security.web.header.HeaderWriterFilter@7fcf294e, org.springframework.security.web.authentication.logout.LogoutFilter@6ba30587, org.example.backend.config.filter.JwtAuthenticationTokenFilter@1f51431, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6fd12c5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@61a1ea2c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@29eda4f8, org.springframework.security.web.session.SessionManagementFilter@5e8cda75, org.springframework.security.web.access.ExceptionTranslationFilter@5ff2b8ca, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6d303498]
+2025-01-03 15:54:26 - Adding welcome page: class path resource [static/index.html]
+2025-01-03 15:54:27 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-03 15:54:27 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-03 15:54:27 - Started BackendApplication in 4.243 seconds (JVM running for 5.885)
+2025-01-03 18:14:51 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-03 18:14:51 - Initializing Servlet 'dispatcherServlet'
+2025-01-03 18:14:51 - Completed initialization in 1 ms
+2025-01-03 18:14:51 - Received login attempt for username: lp
+2025-01-03 18:14:51 - HikariPool-1 - Starting...
+2025-01-03 18:14:51 - HikariPool-1 - Start completed.
+2025-01-03 18:14:51 - Login successful for username: lp
+2025-01-03 18:14:51 - Token generated for user: lp
