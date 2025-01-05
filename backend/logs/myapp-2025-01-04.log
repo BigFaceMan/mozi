@@ -1,0 +1,264 @@
+2025-01-04 09:55:09 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 14536 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 09:55:09 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 09:55:11 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 09:55:11 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 09:55:11 - Starting service [Tomcat]
+2025-01-04 09:55:11 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 09:55:11 - Initializing Spring embedded WebApplicationContext
+2025-01-04 09:55:11 - Root WebApplicationContext: initialization completed in 1467 ms
+2025-01-04 09:55:13 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 09:55:13 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 09:55:13 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5e048149, org.springframework.security.web.context.SecurityContextPersistenceFilter@1de0a46c, org.springframework.security.web.header.HeaderWriterFilter@5fe7f967, org.springframework.security.web.authentication.logout.LogoutFilter@5d5160e6, org.example.backend.config.filter.JwtAuthenticationTokenFilter@21422231, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@222afc67, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5477a1ca, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@79d9214d, org.springframework.security.web.session.SessionManagementFilter@3e1a3801, org.springframework.security.web.access.ExceptionTranslationFilter@3531f3ca, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@710d89e2]
+2025-01-04 09:55:13 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 09:55:13 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 09:55:13 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 09:55:13 - Started BackendApplication in 4.538 seconds (JVM running for 6.105)
+2025-01-04 10:02:46 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 10:02:46 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 10:02:46 - Completed initialization in 1 ms
+2025-01-04 10:02:46 - HikariPool-1 - Starting...
+2025-01-04 10:02:47 - HikariPool-1 - Start completed.
+2025-01-04 12:48:15 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m57s46ms585µs400ns).
+2025-01-04 13:11:45 - HikariPool-1 - Shutdown initiated...
+2025-01-04 13:11:45 - HikariPool-1 - Shutdown completed.
+2025-01-04 13:11:56 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 20088 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 13:11:56 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 13:11:58 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 13:11:58 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:11:58 - Starting service [Tomcat]
+2025-01-04 13:11:58 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 13:11:58 - Initializing Spring embedded WebApplicationContext
+2025-01-04 13:11:58 - Root WebApplicationContext: initialization completed in 1296 ms
+2025-01-04 13:11:59 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 13:11:59 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 13:11:59 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@75361cf6, org.springframework.security.web.context.SecurityContextPersistenceFilter@2caa5d7c, org.springframework.security.web.header.HeaderWriterFilter@45bf6f39, org.springframework.security.web.authentication.logout.LogoutFilter@42c28305, org.example.backend.config.filter.JwtAuthenticationTokenFilter@3d98d138, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3eabe84a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3e1a3801, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6d303498, org.springframework.security.web.session.SessionManagementFilter@5fe7f967, org.springframework.security.web.access.ExceptionTranslationFilter@e8ea697, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2dfe5525]
+2025-01-04 13:11:59 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 13:12:00 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:12:00 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 13:12:00 - Started BackendApplication in 3.664 seconds (JVM running for 5.002)
+2025-01-04 13:12:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 13:12:00 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 13:12:00 - Completed initialization in 1 ms
+2025-01-04 13:12:00 - Received login attempt for username: lp
+2025-01-04 13:12:00 - HikariPool-1 - Starting...
+2025-01-04 13:12:00 - HikariPool-1 - Start completed.
+2025-01-04 13:12:00 - Login successful for username: lp
+2025-01-04 13:12:00 - Received login attempt for username: lp
+2025-01-04 13:12:00 - Token generated for user: lp
+2025-01-04 13:12:00 - Login successful for username: lp
+2025-01-04 13:12:00 - Token generated for user: lp
+2025-01-04 13:16:46 - HikariPool-1 - Shutdown initiated...
+2025-01-04 13:16:46 - HikariPool-1 - Shutdown completed.
+2025-01-04 13:17:38 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 2744 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 13:17:38 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 13:17:39 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 13:17:39 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:17:39 - Starting service [Tomcat]
+2025-01-04 13:17:39 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 13:17:39 - Initializing Spring embedded WebApplicationContext
+2025-01-04 13:17:39 - Root WebApplicationContext: initialization completed in 1253 ms
+2025-01-04 13:17:41 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 13:17:41 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 13:17:41 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6d303498, org.springframework.security.web.context.SecurityContextPersistenceFilter@5e671e20, org.springframework.security.web.header.HeaderWriterFilter@6c42f2a1, org.springframework.security.web.authentication.logout.LogoutFilter@2184b4f4, org.example.backend.config.filter.JwtAuthenticationTokenFilter@2f2d52ef, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@46c3a14d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6fd12c5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ba7383d, org.springframework.security.web.session.SessionManagementFilter@59e43e8c, org.springframework.security.web.access.ExceptionTranslationFilter@74dbb1ee, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1290c49]
+2025-01-04 13:17:42 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 13:17:42 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:17:42 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 13:17:42 - Started BackendApplication in 4.017 seconds (JVM running for 5.296)
+2025-01-04 13:17:44 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 13:17:44 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 13:17:44 - Completed initialization in 1 ms
+2025-01-04 13:17:44 - HikariPool-1 - Starting...
+2025-01-04 13:17:44 - HikariPool-1 - Start completed.
+2025-01-04 13:20:50 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 7684 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 13:20:50 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 13:20:52 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 13:20:52 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:20:52 - Starting service [Tomcat]
+2025-01-04 13:20:52 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 13:20:52 - Initializing Spring embedded WebApplicationContext
+2025-01-04 13:20:52 - Root WebApplicationContext: initialization completed in 1210 ms
+2025-01-04 13:20:53 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 13:20:53 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 13:20:53 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1290c49, org.springframework.security.web.context.SecurityContextPersistenceFilter@7fcf294e, org.springframework.security.web.header.HeaderWriterFilter@7479b626, org.springframework.security.web.authentication.logout.LogoutFilter@670d4d38, org.example.backend.config.filter.JwtAuthenticationTokenFilter@34e20e6b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@65f2f9b0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@46c3a14d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a9b9909, org.springframework.security.web.session.SessionManagementFilter@1aa6e3c0, org.springframework.security.web.access.ExceptionTranslationFilter@64524dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4d192aef]
+2025-01-04 13:20:53 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 13:20:54 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:20:54 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 13:20:54 - Started BackendApplication in 3.506 seconds (JVM running for 5.056)
+2025-01-04 13:21:01 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 13:21:01 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 13:21:01 - Completed initialization in 1 ms
+2025-01-04 13:21:01 - HikariPool-1 - Starting...
+2025-01-04 13:21:01 - HikariPool-1 - Start completed.
+2025-01-04 13:21:30 - HikariPool-1 - Shutdown initiated...
+2025-01-04 13:21:30 - HikariPool-1 - Shutdown completed.
+2025-01-04 13:24:35 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 23684 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 13:24:35 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 13:24:37 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 13:24:37 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:24:37 - Starting service [Tomcat]
+2025-01-04 13:24:37 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 13:24:37 - Initializing Spring embedded WebApplicationContext
+2025-01-04 13:24:37 - Root WebApplicationContext: initialization completed in 1961 ms
+2025-01-04 13:24:39 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 13:24:39 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 13:24:39 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@75361cf6, org.springframework.security.web.context.SecurityContextPersistenceFilter@2caa5d7c, org.springframework.security.web.header.HeaderWriterFilter@45bf6f39, org.springframework.security.web.authentication.logout.LogoutFilter@42c28305, org.example.backend.config.filter.JwtAuthenticationTokenFilter@3d98d138, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3eabe84a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3e1a3801, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6d303498, org.springframework.security.web.session.SessionManagementFilter@5fe7f967, org.springframework.security.web.access.ExceptionTranslationFilter@e8ea697, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2dfe5525]
+2025-01-04 13:24:40 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 13:24:40 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:24:40 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 13:24:40 - Started BackendApplication in 5.184 seconds (JVM running for 6.515)
+2025-01-04 13:24:56 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 13:24:56 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 13:24:56 - Completed initialization in 1 ms
+2025-01-04 13:24:56 - HikariPool-1 - Starting...
+2025-01-04 13:24:56 - HikariPool-1 - Start completed.
+2025-01-04 13:25:44 - HikariPool-1 - Shutdown initiated...
+2025-01-04 13:25:44 - HikariPool-1 - Shutdown completed.
+2025-01-04 13:26:13 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 18580 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 13:26:13 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 13:26:15 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 13:26:15 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:26:15 - Starting service [Tomcat]
+2025-01-04 13:26:15 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 13:26:15 - Initializing Spring embedded WebApplicationContext
+2025-01-04 13:26:15 - Root WebApplicationContext: initialization completed in 1243 ms
+2025-01-04 13:26:17 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 13:26:17 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 13:26:17 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6d303498, org.springframework.security.web.context.SecurityContextPersistenceFilter@5e671e20, org.springframework.security.web.header.HeaderWriterFilter@6c42f2a1, org.springframework.security.web.authentication.logout.LogoutFilter@2184b4f4, org.example.backend.config.filter.JwtAuthenticationTokenFilter@3d98d138, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@46c3a14d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6fd12c5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ba7383d, org.springframework.security.web.session.SessionManagementFilter@59e43e8c, org.springframework.security.web.access.ExceptionTranslationFilter@74dbb1ee, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1290c49]
+2025-01-04 13:26:17 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 13:26:17 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:26:17 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 13:26:17 - Started BackendApplication in 4.225 seconds (JVM running for 6.104)
+2025-01-04 13:26:27 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 13:26:27 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 13:26:27 - Completed initialization in 2 ms
+2025-01-04 13:26:27 - HikariPool-1 - Starting...
+2025-01-04 13:26:27 - HikariPool-1 - Start completed.
+2025-01-04 13:51:06 - HikariPool-1 - Shutdown initiated...
+2025-01-04 13:51:06 - HikariPool-1 - Shutdown completed.
+2025-01-04 13:51:11 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 17960 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 13:51:11 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 13:51:12 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 13:51:12 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:51:12 - Starting service [Tomcat]
+2025-01-04 13:51:12 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 13:51:12 - Initializing Spring embedded WebApplicationContext
+2025-01-04 13:51:12 - Root WebApplicationContext: initialization completed in 1233 ms
+2025-01-04 13:51:14 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 13:51:14 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 13:51:14 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@75361cf6, org.springframework.security.web.context.SecurityContextPersistenceFilter@2caa5d7c, org.springframework.security.web.header.HeaderWriterFilter@45bf6f39, org.springframework.security.web.authentication.logout.LogoutFilter@42c28305, org.example.backend.config.filter.JwtAuthenticationTokenFilter@3d98d138, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3eabe84a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3e1a3801, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6d303498, org.springframework.security.web.session.SessionManagementFilter@5fe7f967, org.springframework.security.web.access.ExceptionTranslationFilter@e8ea697, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2dfe5525]
+2025-01-04 13:51:14 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 13:51:14 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 13:51:14 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 13:51:14 - Started BackendApplication in 3.577 seconds (JVM running for 4.863)
+2025-01-04 14:23:01 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 11360 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 14:23:01 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 14:23:02 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 14:23:02 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 14:23:02 - Starting service [Tomcat]
+2025-01-04 14:23:02 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 14:23:02 - Initializing Spring embedded WebApplicationContext
+2025-01-04 14:23:02 - Root WebApplicationContext: initialization completed in 1231 ms
+2025-01-04 14:23:04 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 14:23:04 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 14:23:04 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6d303498, org.springframework.security.web.context.SecurityContextPersistenceFilter@5e671e20, org.springframework.security.web.header.HeaderWriterFilter@6c42f2a1, org.springframework.security.web.authentication.logout.LogoutFilter@2184b4f4, org.example.backend.config.filter.JwtAuthenticationTokenFilter@2f2d52ef, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@46c3a14d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6fd12c5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ba7383d, org.springframework.security.web.session.SessionManagementFilter@59e43e8c, org.springframework.security.web.access.ExceptionTranslationFilter@74dbb1ee, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1290c49]
+2025-01-04 14:23:04 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 14:23:04 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 14:23:04 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 14:23:04 - Started BackendApplication in 3.687 seconds (JVM running for 4.966)
+2025-01-04 14:24:38 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 14:24:38 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 14:24:38 - Completed initialization in 1 ms
+2025-01-04 14:24:38 - HikariPool-1 - Starting...
+2025-01-04 14:24:39 - HikariPool-1 - Start completed.
+2025-01-04 14:42:16 - Received login attempt for username: ssp
+2025-01-04 14:42:16 - Login successful for username: ssp
+2025-01-04 14:42:16 - Token generated for user: ssp
+2025-01-04 15:00:13 - HikariPool-1 - Shutdown initiated...
+2025-01-04 15:00:13 - HikariPool-1 - Shutdown completed.
+2025-01-04 16:47:30 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 12216 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 16:47:30 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 16:47:32 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 16:47:32 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 16:47:32 - Starting service [Tomcat]
+2025-01-04 16:47:32 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 16:47:32 - Initializing Spring embedded WebApplicationContext
+2025-01-04 16:47:32 - Root WebApplicationContext: initialization completed in 1464 ms
+2025-01-04 16:47:34 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 16:47:34 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 16:47:34 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@43d38654, org.springframework.security.web.context.SecurityContextPersistenceFilter@59e43e8c, org.springframework.security.web.header.HeaderWriterFilter@3efedc6f, org.springframework.security.web.authentication.logout.LogoutFilter@2e060819, org.example.backend.config.filter.JwtAuthenticationTokenFilter@3d98d138, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5e671e20, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@64968732, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@75361cf6, org.springframework.security.web.session.SessionManagementFilter@65f2f9b0, org.springframework.security.web.access.ExceptionTranslationFilter@7479b626, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@fb6097b]
+2025-01-04 16:47:34 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 16:47:34 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 16:47:34 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 16:47:34 - Started BackendApplication in 4.542 seconds (JVM running for 6.303)
+2025-01-04 16:47:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 16:47:53 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 16:47:53 - Completed initialization in 1 ms
+2025-01-04 16:47:53 - Received login attempt for username: lp
+2025-01-04 16:47:53 - HikariPool-1 - Starting...
+2025-01-04 16:47:53 - HikariPool-1 - Start completed.
+2025-01-04 16:47:54 - Login successful for username: lp
+2025-01-04 16:47:54 - Token generated for user: lp
+2025-01-04 16:51:34 - HikariPool-1 - Shutdown initiated...
+2025-01-04 16:51:34 - HikariPool-1 - Shutdown completed.
+2025-01-04 19:39:58 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 20572 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 19:39:58 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 19:39:59 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 19:39:59 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 19:39:59 - Starting service [Tomcat]
+2025-01-04 19:39:59 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 19:39:59 - Initializing Spring embedded WebApplicationContext
+2025-01-04 19:39:59 - Root WebApplicationContext: initialization completed in 1558 ms
+2025-01-04 19:40:01 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 19:40:01 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 19:40:01 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6a9b9909, org.springframework.security.web.context.SecurityContextPersistenceFilter@4867ab9f, org.springframework.security.web.header.HeaderWriterFilter@e8ea697, org.springframework.security.web.authentication.logout.LogoutFilter@131ff6fa, org.example.backend.config.filter.JwtAuthenticationTokenFilter@7a7d1b47, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5fe7f967, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@38fc5554, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55d9b8f0, org.springframework.security.web.session.SessionManagementFilter@3531f3ca, org.springframework.security.web.access.ExceptionTranslationFilter@79d06bbd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1416cf9f]
+2025-01-04 19:40:01 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 19:40:02 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 19:40:02 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 19:40:02 - Started BackendApplication in 4.378 seconds (JVM running for 6.008)
+2025-01-04 19:40:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 19:40:03 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 19:40:03 - Completed initialization in 0 ms
+2025-01-04 19:40:03 - Received login attempt for username: lp
+2025-01-04 19:40:04 - HikariPool-1 - Starting...
+2025-01-04 19:40:04 - HikariPool-1 - Start completed.
+2025-01-04 19:40:04 - Login successful for username: lp
+2025-01-04 19:40:04 - Token generated for user: lp
+2025-01-04 19:53:35 - HikariPool-1 - Shutdown initiated...
+2025-01-04 19:53:35 - HikariPool-1 - Shutdown completed.
+2025-01-04 19:53:48 - Starting BackendApplication using Java 1.8.0_432 on DESKTOP-FBGPU2C with PID 15640 (C:\Users\Lenovo\Desktop\research\kaifa\202411\backend\target\classes started by Lenovo in C:\Users\Lenovo\Desktop\research\kaifa\202411\backend)
+2025-01-04 19:53:48 - No active profile set, falling back to 1 default profile: "default"
+2025-01-04 19:53:50 - Tomcat initialized with port(s): 3000 (http)
+2025-01-04 19:53:50 - Initializing ProtocolHandler ["http-nio-3000"]
+2025-01-04 19:53:50 - Starting service [Tomcat]
+2025-01-04 19:53:50 - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-01-04 19:53:51 - Initializing Spring embedded WebApplicationContext
+2025-01-04 19:53:51 - Root WebApplicationContext: initialization completed in 2776 ms
+2025-01-04 19:53:53 - You are asking Spring Security to ignore Ant [pattern='/websocket/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2025-01-04 19:53:53 - Will not secure Ant [pattern='/websocket/**']
+2025-01-04 19:53:53 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1290c49, org.springframework.security.web.context.SecurityContextPersistenceFilter@7fcf294e, org.springframework.security.web.header.HeaderWriterFilter@7479b626, org.springframework.security.web.authentication.logout.LogoutFilter@670d4d38, org.example.backend.config.filter.JwtAuthenticationTokenFilter@34e20e6b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@65f2f9b0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@46c3a14d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a9b9909, org.springframework.security.web.session.SessionManagementFilter@1aa6e3c0, org.springframework.security.web.access.ExceptionTranslationFilter@64524dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4d192aef]
+2025-01-04 19:53:54 - Adding welcome page: class path resource [static/index.html]
+2025-01-04 19:53:54 - Starting ProtocolHandler ["http-nio-3000"]
+2025-01-04 19:53:54 - Tomcat started on port(s): 3000 (http) with context path ''
+2025-01-04 19:53:54 - Started BackendApplication in 6.836 seconds (JVM running for 9.094)
+2025-01-04 19:55:01 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-04 19:55:01 - Initializing Servlet 'dispatcherServlet'
+2025-01-04 19:55:01 - Completed initialization in 1 ms
+2025-01-04 19:55:01 - HikariPool-1 - Starting...
+2025-01-04 19:55:01 - HikariPool-1 - Start completed.
+2025-01-04 20:04:10 - 开始验证模型: trainingName = CNNTrain_2025-01-04_20-04-06
+2025-01-04 20:04:15 - 模型验证开始...
+2025-01-04 20:04:15 - 模型验证成功，更新状态为 'upload' = 0
+2025-01-04 20:04:15 - 模型验证结束，返回成功信息
+2025-01-04 20:15:48 - 开始验证模型: trainingName = CNNTrain_2025-01-04_20-15-21
+2025-01-04 20:15:53 - 模型验证开始...
+2025-01-04 20:15:53 - 模型验证成功，更新状态为 'upload' = 0
+2025-01-04 20:15:53 - 模型验证结束，返回成功信息
+2025-01-04 20:17:08 - 开始验证模型: trainingName = CNNTrain_2025-01-04_20-17-02
+2025-01-04 20:17:13 - 模型验证开始...
+2025-01-04 20:17:13 - 模型验证成功，更新状态为 'upload' = 0
+2025-01-04 20:17:13 - 模型验证结束，返回成功信息
+2025-01-04 20:49:05 - Received login attempt for username: lp
+2025-01-04 20:49:05 - Login successful for username: lp
+2025-01-04 20:49:05 - Token generated for user: lp
+2025-01-04 22:29:01 - HikariPool-1 - Shutdown initiated...
+2025-01-04 22:29:01 - HikariPool-1 - Shutdown completed.
